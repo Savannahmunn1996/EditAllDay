@@ -1,7 +1,7 @@
 # EditAllDay
 
 ## Description
-This is a text editor that was created using webpack. This awesome text edititor runs in the browser.
+This is a text editor that was created using webpack. This awesome text editor runs in the browser.
 It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.
 
 
