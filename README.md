@@ -9,6 +9,6 @@ It features a number of data persistence techniques that serve as redundancy in 
 clone this repo to your local machine!
 
 ## Deployed link:
-
+https://edit-all-day.herokuapp.com/
 ## Contact
 Savannah Mercedes is a Software developer with a passion for education and technology. Email: savannahmunn1996@gmail.com
