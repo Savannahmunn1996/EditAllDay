@@ -8,6 +8,9 @@ It features a number of data persistence techniques that serve as redundancy in 
 ## Usage 
 clone this repo to your local machine!
 
+![Screen Shot 2023-04-08 at 11 14 01 AM (2)](https://user-images.githubusercontent.com/113401054/230736784-b3896ba8-e4fd-4017-aa95-f423eddc67d7.png)
+
+
 ## Deployed link:
 https://edit-all-day.herokuapp.com/
 ## Contact
